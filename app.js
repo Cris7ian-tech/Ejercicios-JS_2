@@ -8,9 +8,10 @@
 
 //#2
 
-//if (undefined) {
-//    ("este codigo No se correra.")
-//};
+// if (false) {
+//     ("este codigo No se correra.")
+// };
+
 
 //#3
 
